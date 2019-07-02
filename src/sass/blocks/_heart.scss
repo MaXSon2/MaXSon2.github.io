@@ -1,0 +1,41 @@
+.heart {
+    background-color: #f6f6f6;
+    height: 480px;
+}
+
+.less {
+    padding-top: 70px;
+    text-align: center;
+    color: #0d0d0d;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.svg {
+    margin-top: 65px;
+    display: flex;
+    justify-content: space-between;   
+    text-align: center;
+    margin-bottom: 50px;
+    &__icons {
+        padding-bottom: 20px;
+    }
+}
+
+.txtbig {
+    color: #0d0d0d;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.txtlite {
+    color: #0d0d0d;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.txtspan {
+    color: #ff0000;
+    text-decoration: underline;
+    font-weight: 700;
+}
